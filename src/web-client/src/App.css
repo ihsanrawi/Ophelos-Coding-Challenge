@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.Content {
+  height: calc(100% - 122px);
+  align-items: center;
+}
