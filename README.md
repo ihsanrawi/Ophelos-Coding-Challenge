@@ -17,8 +17,6 @@ There's Swagger endpoint that can be view at [https://localhost:5001/swagger](ht
 * Separation of Concerns
 
 ## Run
-
-<details>
 <summary>Command Line</summary>
 
 #### Steps
